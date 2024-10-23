@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: TwilioSMSDemo
+
+twilio:
+  account-sid: ACa6057774accca0bf52e736bdebece1e1
+  auth-token: 28a5d230f73de09075174da842709548
+  phone-number: 84899035255
